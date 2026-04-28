@@ -1,6 +1,6 @@
 # references
 
-**All sources consulted in the research for Dimension A — Testing and Diagnostic Tools.**
+**All sources consulted in the research for Dimension A — Testing and Diagnostic Tools. **
 
 ---
 
